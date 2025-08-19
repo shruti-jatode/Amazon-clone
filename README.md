@@ -1,4 +1,4 @@
 # Amazon-clone
-first project
+first project as web developer
 <br>
 author-shruti jatode
